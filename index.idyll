@@ -1,0 +1,19 @@
+// IS590DV Final Project
+// Group 5 
+
+
+[meta title:"IS590DV Final Project" description:"Billionaire Data Visualization" /]
+// Note: I can leave comments to myself here with these to slashes
+// this won't get compiled into our final webpage and I can remember what I'm doing!  neato!
+
+// Lets re-put in a nice header for our webpage:
+[Header
+  title:"Billionaire Data Visualization"
+  subtitle:"IS590DV Final Project"
+  author:"AJ Christensen"
+  authorLink:"https://ajchristensen.com" /] // this links to my personal webpage, so that is cool
+
+// Now, lets add some plain text:
+This subsection here is just plain text. // magical
+
+
